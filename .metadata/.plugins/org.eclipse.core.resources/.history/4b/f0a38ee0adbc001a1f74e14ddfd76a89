@@ -1,0 +1,5 @@
+package com.algaworks.adyellen.domain.model;
+
+public class Cliente {
+
+}
