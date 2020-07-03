@@ -6,3 +6,4 @@
 
 * API RestFull;
 * Postman;
+* Integração com Flyway Migration;
