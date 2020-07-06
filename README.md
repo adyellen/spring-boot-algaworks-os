@@ -5,5 +5,4 @@
 ### OS (Ordem de Serviço)
 
 * API RestFull;
-* Postman;
-* Integração com Flyway Migration;
+* Postman
